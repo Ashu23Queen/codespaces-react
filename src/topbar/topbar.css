@@ -6,7 +6,7 @@
     top: 0;
     display: flex;
     font-family: mulish;
-
+    z-index: 999;
 }
 
 .topLeft,.topRight{
